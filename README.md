@@ -8,8 +8,6 @@ Domain:DATA SCIENCE
 
 Duration:July to August 2024
 
-Mentor:Muzammil
-
 Overview of the Project:
 
 Project: EXPLORATORY DATA ANALYSIS (EDA)
